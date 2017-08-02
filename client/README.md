@@ -1,6 +1,7 @@
 # Intention
 
-This repository has been created in order to have a minimal FE setup for applications architecture React/Redux based.
+This repository has been created on the base of a minimal FE setup for applications architecture React/Redux based
+(https://github.com/andrixb/ReactSassWebpack2Setup).
 
 It uses Sass (with .scss/.sass). The style is loaded at the component level.
 
@@ -26,3 +27,19 @@ See the example in the `src` folder for a basic usage of this starter kit.
 - `npm run lint` run all the linters
 
 - `npm test` run the test suites
+
+
+## Routes
+- `/`
+
+- `/signin`
+
+- `/signup`
+
+- `/feature` (starting authorized component)
+
+
+## Application Components per View
+- Header
+
+## Application State
